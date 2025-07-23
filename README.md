@@ -3,10 +3,8 @@
 
 ---
 
-- 🌍 I’m based in Nigeria
 - 🚀 I’m currently working on DevSecOps projects with real-world cloud infrastructure
 - 🤝 I’m looking to collaborate on impactful open-source and cloud-native projects
-- 🌱 I’m currently learning **Kubernetes security**, **GitLab pipelines**, and **Cloud SIEM**
 - 💬 Ask me about **Docker, Jenkins, AWS, Elastic Stack, Python automation**
 - 📫 How to reach me: **joshuanaphtalipella@gmail.com**
 
@@ -14,9 +12,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://yourportfolio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="website" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joshua-pella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
