@@ -5,13 +5,13 @@
 
 - 🚀 I specialize in architecting secure, highly available cloud infrastructure and driving operational efficiency through seamless automation.
 - 💬 Ask me about **AWS VPC design, Terraform automation, and IAM policies**.
-- 📫 How to reach me: **joshuanaphtalipella@gmail.com** [cite: 3]
+- 📫 How to reach me: **joshuanaphtalipella@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/joshua-pella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a> [cite: 3]
+  <a href="https://linkedin.com/in/joshua-pella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
