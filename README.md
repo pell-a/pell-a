@@ -4,7 +4,6 @@
 ---
 
 - 🚀 I specialize in architecting secure, highly available cloud infrastructure and driving operational efficiency through seamless automation.
-- 💬 Ask me about **AWS VPC design, Terraform automation, and IAM policies**.
 - 📫 How to reach me: **joshuanaphtalipella@gmail.com**
 
 ---
