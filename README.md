@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left">🛠 Cloud, Security & Automation Tools:</h3>
+<h3 align="left">🛠 My Toolbox:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="AWS" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" title="Terraform" width="40" height="40"/></a>
